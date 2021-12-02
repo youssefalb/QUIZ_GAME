@@ -1,0 +1,5 @@
+How many rings are on the Olympic flag?;a-None;b-7;c-5;d-4;c;10
+How did Spider-Man get his powers?;a-Military experiment gone awry;b-Born with them;c-Bitten by a radioactive spider;d-Bitten by a tiger;c;10
+What is the world's most populated country?;a-India;b-USA;c-Russia;d-China;d;10
+What is the capital of the Philippines?;a-Jakarta;b-Marawi;c-Manilla;d-Bangkok;c;10
+What percentage of the passengers on the Titanic died in the disaster?;a-0%;b-4%;c-90%;d-62%;d;10
