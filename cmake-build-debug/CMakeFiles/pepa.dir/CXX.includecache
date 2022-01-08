@@ -1,0 +1,56 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/youssef albali/CLionProjects/QUIZ_GAME/Answer.h
+iostream
+-
+Quiz.h
+/mnt/c/Users/youssef albali/CLionProjects/QUIZ_GAME/Quiz.h
+
+/mnt/c/Users/youssef albali/CLionProjects/QUIZ_GAME/FileManager.h
+iostream
+-
+vector
+-
+string
+-
+Question.h
+/mnt/c/Users/youssef albali/CLionProjects/QUIZ_GAME/Question.h
+Answer.h
+/mnt/c/Users/youssef albali/CLionProjects/QUIZ_GAME/Answer.h
+fstream
+-
+
+/mnt/c/Users/youssef albali/CLionProjects/QUIZ_GAME/Question.h
+iostream
+-
+Answer.h
+/mnt/c/Users/youssef albali/CLionProjects/QUIZ_GAME/Answer.h
+vector
+-
+Quiz.h
+/mnt/c/Users/youssef albali/CLionProjects/QUIZ_GAME/Quiz.h
+
+/mnt/c/Users/youssef albali/CLionProjects/QUIZ_GAME/Quiz.h
+iostream
+-
+
+/mnt/c/Users/youssef albali/CLionProjects/QUIZ_GAME/main.cpp
+iostream
+-
+algorithm
+-
+random
+-
+chrono
+-
+Question.h
+/mnt/c/Users/youssef albali/CLionProjects/QUIZ_GAME/Question.h
+FileManager.h
+/mnt/c/Users/youssef albali/CLionProjects/QUIZ_GAME/FileManager.h
+

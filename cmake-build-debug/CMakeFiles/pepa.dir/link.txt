@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/pepa.dir/main.cpp.o CMakeFiles/pepa.dir/Question.cpp.o CMakeFiles/pepa.dir/FileManager.cpp.o CMakeFiles/pepa.dir/Answer.cpp.o CMakeFiles/pepa.dir/Quiz.cpp.o  -o pepa 
